@@ -1,0 +1,3 @@
+export const FETCH_SAGA = 'FETCH_SAGA'
+export const FETCH_REQUEST = 'FETCH_REQUEST'
+export const FETCH_RESPONSE = 'FETCH_RESPONSE'
